@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/TEST\u2014\u2014XML.unity"
+  isLoaded: 1
+  isActive: 1
